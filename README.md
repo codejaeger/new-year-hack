@@ -12,5 +12,4 @@ Client :-
 1. cd ../client
 2. npm start
 
-Demo - Open localhost:3001 in browser
-
+Demo - Open <a href="https://localhost:3001">localhost:3001</a> in browser
